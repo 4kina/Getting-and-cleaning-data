@@ -22,7 +22,7 @@ The output is created in working directory with the name of tidy.txt
 
  *Note*: the R script is built to run without including any libraries for the purpose of this course.
  
- #Description of run_analysis.R 
+# Description of run_analysis.R 
 
 **Step 1:**
 
