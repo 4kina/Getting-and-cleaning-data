@@ -1,4 +1,4 @@
-# Getting and cleaning data
+# Getting and Cleaning Data Course
   Course Project Week4
   
 # What is run_analysis.R for?
